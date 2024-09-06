@@ -17,6 +17,6 @@ jobs:
       - uses: Mr-Jamilo/metrics@master
         with:
           filename: metrics.classic.csv
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRIC_TOKEN }}
           base: header, repositories
           plugin_lines: yes
