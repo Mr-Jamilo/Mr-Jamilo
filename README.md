@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm [**Jamie**], a Comp Sci student from Manchester, UK with a primary interest in **full-stack development** and **machine learning**.
+I'm **Jamie**, a Comp Sci student from Manchester, UK with a primary interest in **full-stack development** and **machine learning**.
 
 Outside of uni, I'm interested in following the developments of tech and I also enjoy playing piano.
 
