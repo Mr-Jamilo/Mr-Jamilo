@@ -13,7 +13,17 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: svg/metrics.column-1.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: "header, activity, community, repositories, metadata"
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: svg/metrics.column-2.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_starlists: yes
+          plugin_starlists_limit_repositories: 3
