@@ -24,7 +24,7 @@ jobs:
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
           plugin_music_time_range: short
           plugin_music_top_type: tracks
-          config_padding: 0, 20
+          config_padding: 0, 100
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -34,4 +34,4 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugin_stars: yes
           plugin_stars_limit: 3
-          config_padding: 0, 50
+          config_padding: 0, 100
