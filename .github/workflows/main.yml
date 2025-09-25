@@ -43,6 +43,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_indepth_custom: Mr-Jamilo/mcms
-          plugin_languages_limit: 4
+          plugin_languages_details: lines, bytes-size
           commits_authoring: Jamie Lo, Mr-Jamilo
-      
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_analysis_timeout_repositories: 15
