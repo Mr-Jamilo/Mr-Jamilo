@@ -9,7 +9,7 @@
       </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
         <img src="./svg/metrics.languages.svg" alt="languages" />
       </td>
     </tr>
