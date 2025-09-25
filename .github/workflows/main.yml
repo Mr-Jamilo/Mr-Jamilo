@@ -11,6 +11,8 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Debug Spotify secret length
+        run: echo "${{ secrets.SPOTIFY_TOKENS }}" | wc -c
       - uses: lowlighter/metrics@latest
         with:
           filename: svg/metrics.column-1.svg
