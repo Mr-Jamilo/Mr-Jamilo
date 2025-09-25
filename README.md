@@ -8,5 +8,10 @@
         <img src="./svg/metrics.column-2.svg" alt="column-2" />
       </td>
     </tr>
+    <tr>
+      <td>
+        <img src="./svg/metrics.languages.svg" alt="languages" />
+      </td>
+    </tr>
   </table>
 </div>
