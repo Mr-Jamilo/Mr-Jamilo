@@ -19,6 +19,9 @@
       <td colspan="2">
         <img src="./svg/metrics.languages.svg" alt="languages" />
       </td>
+      <td colspan="2">
+        <img src="./svg/metrics.recents.svg" alt="languages" />
+      </td>
     </tr>
   </table>
 </div>
