@@ -16,10 +16,10 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
         <img src="./svg/metrics.languages.svg" alt="languages" />
       </td>
-      <td colspan="2">
+      <td>
         <img src="./svg/metrics.recent.svg" alt="languages" />
       </td>
     </tr>
