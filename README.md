@@ -20,7 +20,7 @@
         <img src="./svg/metrics.languages.svg" alt="languages" />
       </td>
       <td colspan="2">
-        <img src="./svg/metrics.recents.svg" alt="languages" />
+        <img src="./svg/metrics.recent.svg" alt="languages" />
       </td>
     </tr>
   </table>
