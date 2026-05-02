@@ -50,6 +50,6 @@ jobs:
           base: ""
           plugin_activity: yes
           plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: push, issue, pr, release, fork, review, ref/create, public
+          plugin_activity_days: 14
+          plugin_activity_filter: all
           plugin_activity_timestamps: true
